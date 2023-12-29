@@ -1,0 +1,32 @@
+* {
+	background-color: #33aa11;
+	font-family: Times, "Times New Roman", Georgia, serif;
+}
+
+h1 {
+	color: gold;
+	font-weight: bold;
+	text-align: center;
+}
+
+p {
+	font-size: 16px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+img {
+	height: auto;
+	width: 50%;
+}
+
+a {
+	text-decoration: none;
+	color: blue;
+}
+
+a:hover {
+	color: red;
+	text-decoration: underline;
+	transition: 5ms;
+}
